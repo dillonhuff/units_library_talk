@@ -30,3 +30,6 @@ throughput_in_ops_per_sec = (throughput * pixel_size * arithmetic_intensity).to(
 
 print('CPU throughput:', throughput_in_ops_per_sec)
 print()
+
+
+
